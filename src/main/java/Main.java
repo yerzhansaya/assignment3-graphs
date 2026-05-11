@@ -4,6 +4,12 @@ public class Main {
         Graph mediumGraph = createGraph(30);
         Graph largeGraph = createGraph(100);
 
+        System.out.println("Graphs created:");
+        System.out.println("Small graph: 10 vertices");
+        System.out.println("Medium graph: 30 vertices");
+        System.out.println("Large graph: 100 vertices");
+
+
         System.out.println("Small Graph Structure:");
         smallGraph.printGraph();
 
