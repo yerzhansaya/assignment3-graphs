@@ -313,25 +313,26 @@ DFS also does not always find the shortest path in an unweighted graph.
 
 ## Graph Structure Output
 
-![Graph Structure](graph-structure.png)
+![Graph Structure](docs/graph-structure.png)
+
 
 ---
 
 ## BFS Traversal Output
 
-![BFS Output](bfs-output.png)
+![BFS Output](docs/bfs-output.png)
 
 ---
 
 ## DFS Traversal Output
 
-![DFS Output](dfs-output.png)
+![DFS Output](docs/dfs-output.png)
 
 ---
 
 ## Performance Results
 
-![Performance Results](performance-results.png)
+![Performance Results](docs/performance-results.png)
 
 ---
 
@@ -348,23 +349,5 @@ Overall, this assignment improved my understanding of graph algorithms, object-o
 ---
 ```
 
----
 
-# Repository Structure
-
-```text
-assignment3-graphs/
-├── src/
-│   ├── Vertex.java
-│   ├── Edge.java
-│   ├── Graph.java
-│   ├── Experiment.java
-│   └── Main.java
-├── docs/
-│   ├── screenshots/
-├── README.md
-└── .gitignore
-```
-
----
 
